@@ -49,7 +49,7 @@
 ###
 
 
-![Snake animation](https://raw.githubusercontent.com/code-with-rahul/code-with-rahul/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/code-with-rahul/code-with-rahul/output/github-contribution-grid-snake-dark.svg)
 
 
 ###
